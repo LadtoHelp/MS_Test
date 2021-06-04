@@ -10,4 +10,5 @@ This is a comment block
 
 
 Get-Disk
+Get-NetAdapter
 #endregion
