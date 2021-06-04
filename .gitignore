@@ -1,5 +1,2 @@
 *.msi
 *.exe
-*.bmp
-!Folder1/*
-Folder1/Test.exe
