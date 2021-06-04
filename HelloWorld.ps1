@@ -11,4 +11,6 @@ This is a comment block
 
 Get-Disk
 Get-NetAdapter
+Write-error WRONG
+
 #endregion
